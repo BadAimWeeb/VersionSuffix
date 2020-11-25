@@ -1,0 +1,10 @@
+main: me.BadAimWeeb.VersionSuffix.App
+name: VersionSuffix
+version: 1.0
+api-version: 1.16
+author: BadAimWeeb
+depend: 
+  - Vault
+  - ProtocolSupport
+  - NametagEdit
+  - floodgate-bukkit
